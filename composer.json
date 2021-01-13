@@ -69,12 +69,10 @@
         "anomaly/settings-module": "~2.4.0",
         "anomaly/addons-module": "~2.3.0",
         "anomaly/blocks-module": "~1.3.0",
-        "anomaly/search-module": "~3.0.0",
         "anomaly/system-module": "~1.1.0",
         "anomaly/streams-module": "~1.3.0",
         "anomaly/users-module": "~2.5.0",
         "anomaly/pages-module": "~2.6.0",
-        "anomaly/posts-module": "~2.6.0",
         "anomaly/files-module": "~2.6.0",
         "anomaly/contact-plugin": "~1.2.0",
         "anomaly/helper-plugin": "~2.1.0",
@@ -83,7 +81,10 @@
         "anomaly/html_block-extension": "~1.0.0",
         "anomaly/wysiwyg_block-extension": "~1.0.0",
         "pyrocms/starter-theme": "~1.0.0",
-        "pyrocms/accelerant-theme": "~1.2.0"
+        "pyrocms/accelerant-theme": "~1.2.0",
+        "visiosoft/smart_tax-theme" : "*",
+        "visiosoft/smartax-module": "*",
+        "visiosoft/smartax_widget-extension" : "*"  
     },
     "require-dev": {
         "filp/whoops": "~2.0",
